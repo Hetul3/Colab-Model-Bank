@@ -13,4 +13,4 @@ GAN model on cifer10 images to create believable fake images from the cifer10 da
 <a href="https://huggingface.co/ewjfwejfoiwe/Unet_GAN_Self-driving-car-vision-segmentation/tree/main">GAN model</a> combined with Unet for converting car POV imagery into depth segmentation for driverless car computing
 
 # 5
-GloVe embedding model trained on 100 sentences with Adam optimizer, contains embeddings of 650+ words/tokens.
+GloVe embedding model containing embeddings of 1200+ words/tokens.
